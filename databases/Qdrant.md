@@ -68,7 +68,7 @@ Qdrant поддерживает простую форму аутентифика
     
 [/code]
 
-[ Next n8n ](<../marketplace/n8n.html>) [ Previous Memcached ](<memcached.html>)
+[ Next n8n ](../marketplace/n8n.md) [ Previous Memcached ](memcached.md)
 
 Copyright © 2024, Amvera 
 

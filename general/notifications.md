@@ -36,7 +36,7 @@ __
 
 > **⚠️ Предупреждение** > > Важно Если функционал работает некорректно, просим сообщить в поддержку support@amvera.ru 
 
-[ Next Поддержка проб Kubernetes ](<k8sprobe.html>) [ Previous Масштабирование ресурса ](<scaling.html>)
+[ Next Поддержка проб Kubernetes ](k8sprobe.md) [ Previous Масштабирование ресурса ](scaling.md)
 
 Copyright © 2024, Amvera 
 

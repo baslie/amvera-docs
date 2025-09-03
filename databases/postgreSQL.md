@@ -64,7 +64,7 @@ __
 * Только для чтения в режиме hot standby: ``amvera-<username>-cnpg-<project_name>-ro``
 * Для чтения с произвольной из развернутых нод: ``amvera-<username>-cnpg-<project_name>-r``
 
-Для доступа к базе данных из сети Интернет необходимо создать [доменное имя](<../applications/configuration/network.html>) с типом POSTGRES. Клиент, которым будет выполняться подключения к БД должен поддерживать SSL.
+Для доступа к базе данных из сети Интернет необходимо создать [доменное имя](../applications/configuration/network.md) с типом POSTGRES. Клиент, которым будет выполняться подключения к БД должен поддерживать SSL.
 
 > **ATTENTION** > > Важно При подключении из локального pgAdmin, укажите это доменное имя без https вначале. 
 
@@ -95,12 +95,12 @@ __
 
 > **ATTENTION** > > Внимание Рекомендуется использовать версию не выше 8.12, поскольку версии выше используют v17 libpq. Именно на этой версии при попытке подключиться к БД возвращается ошибка SSL error: tlsv1 alert no application protocol. 
 
-В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](<../applications/configuration/variables.html>):
+В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](../applications/configuration/variables.md):
 * Переменная ``PGADMIN_DEFAULT_EMAIL`` \- почта администратора pgAdmin
 * Секрет ``PGADMIN_DEFAULT_PASSWORD`` \- пароль для доступа к pgAdmin (не имеет ничего общего с паролем от БД)
 
 ## Настройка pgAdmin
-1. В разделе «Настройки» приложения активируем [бесплатное доменное имя](<../applications/configuration/network.html#бесплатное-доменное-имя-амвера>) или [добавляем свое](<../applications/configuration/network.html#свое-доменное-имя>). ![db_create](images/pgadmin_domain_1.png)
+1. В разделе «Настройки» приложения активируем [бесплатное доменное имя](../applications/configuration/network.md#бесплатное-доменное-имя-амвера) или [добавляем свое](../applications/configuration/network.md#свое-доменное-имя). ![db_create](images/pgadmin_domain_1.png)
 2. Дожидаемся окончания привязки доменного имени и переходим по нему.
 3. Вводим данные для входа в pgAdmin.
 4. Слева правой кнопкой мыши Server->Register->Server…
@@ -139,7 +139,7 @@ __
 
 ![restore](images/postgresql_restore.png)
 
-[ Next SQLite ](<sqlite.html>) [ Previous Сетевое взаимодействие ](<../applications/configuration/network.html>)
+[ Next SQLite ](sqlite.md) [ Previous Сетевое взаимодействие ](../applications/configuration/network.md)
 
 Copyright © 2024, Amvera 
 

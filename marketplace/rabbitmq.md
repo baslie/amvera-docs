@@ -54,7 +54,7 @@ __
 
 При возникновении вопросов пишите на почту support@amvera.ru
 
-[ Next Joomla ](<joomla.html>) [ Previous Keycloak ](<Keycloack.html>)
+[ Next Joomla ](joomla.md) [ Previous Keycloak ](Keycloack.md)
 
 Copyright © 2024, Amvera 
 

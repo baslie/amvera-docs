@@ -65,7 +65,7 @@ __
 
 Возвращаемся на сайт, видим, добавленный контент ![joomla_result](marketplace/assets/joomla_result.png)
 
-[ Next Drupal ](<drupal.html>) [ Previous RabbitMQ ](<rabbitmq.html>)
+[ Next Drupal ](drupal.md) [ Previous RabbitMQ ](rabbitmq.md)
 
 Copyright © 2024, Amvera 
 

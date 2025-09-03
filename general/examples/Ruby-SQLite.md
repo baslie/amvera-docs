@@ -40,7 +40,7 @@ __
 
 Напишите наблюдаемую вами симптоматику на support@amvera.ru с указанием вашего имени пользователя и названия проекта, мы постараемся вам помочь.
 
-[ Next Web-приложение на C# Microsoft (.NET) с подключением к SQLite ](<NET-SQLite.html>) [ Previous Fullstack на Go ](<go_full.html>)
+[ Next Web-приложение на C# Microsoft (.NET) с подключением к SQLite ](NET-SQLite.md) [ Previous Fullstack на Go ](go_full.md)
 
 Copyright © 2024, Amvera 
 

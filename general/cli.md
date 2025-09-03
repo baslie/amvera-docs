@@ -152,7 +152,7 @@ Windows
 
 В настоящий момент можете удалить файл, находящийся в ``which amvera`` для Unix систем или в Program Files для Windows.
 
-[ Next SLA ](<sla.html>) [ Previous Поддержка проб Kubernetes ](<k8sprobe.html>)
+[ Next SLA ](sla.md) [ Previous Поддержка проб Kubernetes ](k8sprobe.md)
 
 Copyright © 2024, Amvera 
 

@@ -154,7 +154,7 @@ SQLite обеспечивает поддержку основных функци
 
 Видео в YouTube:
 
-[ Next MongoDB ](<mongodb.html>) [ Previous PostgreSQL ](<postgreSQL.html>)
+[ Next MongoDB ](mongodb.md) [ Previous PostgreSQL ](postgreSQL.md)
 
 Copyright © 2024, Amvera 
 

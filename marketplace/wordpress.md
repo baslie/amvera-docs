@@ -73,7 +73,7 @@ WORDPRESS_DB_HOST - host базы данных WORDPRESS_DB_NAME - имя баз
 
 ![wordpress_add_content2](images/wordpress_add_content2.png)
 
-[ Next Amvera LLM Inference ](<../LLM/doc-inference-ru.html>) [ Previous Drupal ](<drupal.html>)
+[ Next Amvera LLM Inference ](../LLM/doc-inference-ru.md) [ Previous Drupal ](drupal.md)
 
 Copyright © 2024, Amvera 
 

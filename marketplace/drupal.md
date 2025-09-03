@@ -72,7 +72,7 @@ __
 
 ![drupal_add_content](images/drupal_add_content.png)
 
-[ Next WordPress ](<wordpress.html>) [ Previous Joomla ](<joomla.html>)
+[ Next WordPress ](wordpress.md) [ Previous Joomla ](joomla.md)
 
 Copyright © 2024, Amvera 
 

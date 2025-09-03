@@ -44,7 +44,7 @@ __
 
 Если вы из России и оплата не проходит - пишите в [support@amvera.ru](<mailto:support%40amvera.ru>). Просим сразу указывать имя пользователя и проекта.
 
-[ Next Git ](<../../applications/git.html>) [ Previous Ошибки при работе с git ](<../../applications/git/freq-errors.html>)
+[ Next Git ](../../applications/git.md) [ Previous Ошибки при работе с git ](../../applications/git/freq-errors.md)
 
 Copyright © 2024, Amvera 
 

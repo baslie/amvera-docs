@@ -38,7 +38,7 @@ __
 
 Учтите в коде приложения, что на серверах время UTC (-3 часа от МСК) и может не совпадать с временем в вашем регионе. Изменить время на сервере нельзя, нужно учесть данный момент на стороне кода приложения.
 
-[ Next Ошибки при работе с git ](<../../applications/git/freq-errors.html>) [ Previous Не найден файл (no such file or directory …) ](<not-found-file.html>)
+[ Next Ошибки при работе с git ](../../applications/git/freq-errors.md) [ Previous Не найден файл (no such file or directory …) ](not-found-file.md)
 
 Copyright © 2024, Amvera 
 

@@ -214,7 +214,7 @@ __
 * 09:17 Структура проекта (/data)
 * 09:58 Тестируем бота
 
-[ Next Selenium и Chromedriver ](<selenium-chromedriver.html>) [ Previous Ruby (Rails) ](<ruby-bundle.html>)
+[ Next Selenium и Chromedriver ](selenium-chromedriver.md) [ Previous Ruby (Rails) ](ruby-bundle.md)
 
 Copyright © 2024, Amvera 
 

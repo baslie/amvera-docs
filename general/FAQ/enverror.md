@@ -61,7 +61,7 @@ __
 
 Вы можете составить его через pip freeze, но мы рекомендуем прописать их руками, так-как pip freeze дает много лишних зависимостей, что может приводить к конфликтам окружений.
 
-[ Next Не найден файл (no such file or directory …) ](<not-found-file.html>) [ Previous Не работает телеграм-бот ](<tgbot.html>)
+[ Next Не найден файл (no such file or directory …) ](not-found-file.md) [ Previous Не работает телеграм-бот ](tgbot.md)
 
 Copyright © 2024, Amvera 
 

@@ -80,13 +80,13 @@ __
 
 ### 2\. Указать необходимые переменные окружения.
 
-В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](<../applications/configuration/variables.html>):
+В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](../applications/configuration/variables.md):
 * Переменная ``PMA_ABSOLUTE_URI`` \- ссылка на приложение (в формате ``https://<транслитерированное-имя-проекта>-<имя-пользователя>.amvera.io``)
 * Переменная ``PMA_ARBITRARY``, установленная в 1
 
 ![phpmyadmin_variables](images/phpmyadmin_variables.png)
 
-### 3\. Активировать в настройках [бесплатное доменное имя](<../applications/configuration/network.html#бесплатное-доменное-имя-амвера>) или [добавляем свое](<../applications/configuration/network.html#свое-доменное-имя>).
+### 3\. Активировать в настройках [бесплатное доменное имя](../applications/configuration/network.md#бесплатное-доменное-имя-амвера) или [добавляем свое](../applications/configuration/network.md#свое-доменное-имя).
 
 ![db_create](images/pgadmin_domain.png)
 
@@ -121,7 +121,7 @@ __
 * 02:47 Подключение к БД из другого проекта
 * 05:04 Проверка работоспособности
 
-[ Next Redis ](<redis.html>) [ Previous MongoDB ](<mongodb.html>)
+[ Next Redis ](redis.md) [ Previous MongoDB ](mongodb.md)
 
 Copyright © 2024, Amvera 
 

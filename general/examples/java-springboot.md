@@ -40,7 +40,7 @@ __
 
 Напишите наблюдаемую вами симптоматику на support@amvera.ru с указанием вашего имени пользователя и названия проекта, мы постараемся вам помочь.
 
-[ Next Fullstack-приложение на Go c подключением к PostgreSQL ](<go-postgresql.html>) [ Previous Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах ](<miniappex.html>)
+[ Next Fullstack-приложение на Go c подключением к PostgreSQL ](go-postgresql.md) [ Previous Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах ](miniappex.md)
 
 Copyright © 2024, Amvera 
 

@@ -470,7 +470,7 @@ __
     
 [/code]
 
-[ Next Ruby on Rails c базой данных SQLite ](<Ruby-SQLite.html>) [ Previous Fullstack-приложение на Go c подключением к PostgreSQL ](<go-postgresql.html>)
+[ Next Ruby on Rails c базой данных SQLite ](Ruby-SQLite.md) [ Previous Fullstack-приложение на Go c подключением к PostgreSQL ](go-postgresql.md)
 
 Copyright © 2024, Amvera 
 

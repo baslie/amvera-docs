@@ -177,7 +177,7 @@ __
 
 Видео в YouTube:
 
-[ Next Перенос проекта из Heroku ](<../configuration/heroku-migration.html>) [ Previous ffmpeg ](<ffmpeg-pip.html>)
+[ Next Перенос проекта из Heroku ](../configuration/heroku-migration.md) [ Previous ffmpeg ](ffmpeg-pip.md)
 
 Copyright © 2024, Amvera 
 

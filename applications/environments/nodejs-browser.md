@@ -147,7 +147,7 @@ __
     
 [/code]
 
-[ Next Node.JS Server ](<nodejs-server.html>) [ Previous JVM Maven ](<jvm-maven.html>)
+[ Next Node.JS Server ](nodejs-server.md) [ Previous JVM Maven ](jvm-maven.md)
 
 Copyright © 2024, Amvera 
 

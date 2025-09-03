@@ -27,21 +27,21 @@ __
 # Поддерживаемые окружения
 
 Основные
-* [Python Pip](<environments/python-pip.html>)
-* [JVM Gradle](<environments/jvm-gradle.html>)
-* [JVM Maven](<environments/jvm-maven.html>)
-* [Node.JS Browser](<environments/nodejs-browser.html>)
-* [Node.JS Server](<environments/nodejs-server.html>)
-* [Go](<environments/golang-go.html>)
-* [C# mono](<environments/csharp-mono.html>)
-* [С# Microsoft(.NET)](<environments/csharp-dotnet.html>)
-* [Ruby (Rails)](<environments/ruby-bundle.html>)
+* [Python Pip](environments/python-pip.md)
+* [JVM Gradle](environments/jvm-gradle.md)
+* [JVM Maven](environments/jvm-maven.md)
+* [Node.JS Browser](environments/nodejs-browser.md)
+* [Node.JS Server](environments/nodejs-server.md)
+* [Go](environments/golang-go.md)
+* [C# mono](environments/csharp-mono.md)
+* [С# Microsoft(.NET)](environments/csharp-dotnet.md)
+* [Ruby (Rails)](environments/ruby-bundle.md)
 
 Дополнительные
-* [ffmpeg](<environments/ffmpeg-pip.html>)
-* [Selenium и Chromedriver](<environments/selenium-chromedriver.html>)
+* [ffmpeg](environments/ffmpeg-pip.md)
+* [Selenium и Chromedriver](environments/selenium-chromedriver.md)
 
-[ Next Python Pip ](<environments/python-pip.html>) [ Previous Docker ](<configuration/docker.html>)
+[ Next Python Pip ](environments/python-pip.md) [ Previous Docker ](configuration/docker.md)
 
 Copyright © 2024, Amvera 
 

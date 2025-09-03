@@ -338,7 +338,7 @@ __
 
 Напишите наблюдаемую вами симптоматику на support@amvera.ru с указанием вашего имени пользователя и названия проекта, мы постараемся вам помочь.
 
-[ Next Быстрый старт ](<../../applications/quick-start.html>) [ Previous Ruby on Rails c базой данных SQLite ](<Ruby-SQLite.html>)
+[ Next Быстрый старт ](../../applications/quick-start.md) [ Previous Ruby on Rails c базой данных SQLite ](Ruby-SQLite.md)
 
 Copyright © 2024, Amvera 
 

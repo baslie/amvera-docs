@@ -74,7 +74,7 @@ Request:
     
 [/code]
 
-[ Next Пополнение счета ](<../general/topup.html>) [ Previous WordPress ](<../marketplace/wordpress.html>)
+[ Next Пополнение счета ](../general/topup.md) [ Previous WordPress ](../marketplace/wordpress.md)
 
 Copyright © 2024, Amvera 
 

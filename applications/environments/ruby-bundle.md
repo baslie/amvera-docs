@@ -79,7 +79,7 @@ __
 
 Параметр ``mainScript`` позволяет указать главный скрипт в проекте, с расширением.
 
-Параметр ``persistenceMount`` позволяет указать, в какую директорию будет примонтирована папка с [постоянным хранилищем](<../storage.html#data>). По умолчанию имеет значение ``/data``.
+Параметр ``persistenceMount`` позволяет указать, в какую директорию будет примонтирована папка с [постоянным хранилищем](../storage.md#data). По умолчанию имеет значение ``/data``.
 
 Параметр ``containerPort`` позволяет указать какой порт слушает приложение. По умолчанию имеет значение ``80``.
 
@@ -112,7 +112,7 @@ __
     
 [/code]
 
-[ Next ffmpeg ](<ffmpeg-pip.html>) [ Previous С# Microsoft(.NET) ](<csharp-dotnet.html>)
+[ Next ffmpeg ](ffmpeg-pip.md) [ Previous С# Microsoft(.NET) ](csharp-dotnet.md)
 
 Copyright © 2024, Amvera 
 

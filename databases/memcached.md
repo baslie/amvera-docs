@@ -47,7 +47,7 @@ __
 
 Вместо host следует указать внутреннее доменное имя проекта Memcached, которое можно найти во вкладке «Домены».
 
-[ Next Qdrant ](<Qdrant.html>) [ Previous Redis ](<redis.html>)
+[ Next Qdrant ](Qdrant.md) [ Previous Redis ](redis.md)
 
 Copyright © 2024, Amvera 
 

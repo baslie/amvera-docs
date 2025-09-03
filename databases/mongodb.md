@@ -56,7 +56,7 @@ __
 
 ### 2\. На этапе «Конфигурация» настроить переменные окружения (envvars)
 
-В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](<../applications/configuration/variables.html>):
+В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](../applications/configuration/variables.md):
 * Для добавления имени пользователя необходимо нажать на кнопку «Создать переменную». В поле «Название» указать ``MONGO_INITDB_ROOT_USERNAME``, а в поле значение вписать желаемое имя пользователя.
 * Для добавления пароля и безопасного его хранения требуется нажать на кнопку «Создать секрет». В поле «Название» указать ``MONGO_INITDB_ROOT_PASSWORD``, а в поле значение вписать желаемый пароль.
 
@@ -93,14 +93,14 @@ __
 
 ### 2\. Указать необходимые параметры окружения.
 
-В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](<../applications/configuration/variables.html>):
+В разделе «Переменные» у проекта необходимо задать следующие [переменные окружения](../applications/configuration/variables.md):
 * Переменная ``ME_CONFIG_BASICAUTH_USERNAME`` \- имя пользователя администратора mongo-express
 * Секрет ``ME_CONFIG_BASICAUTH_PASSWORD`` \- пароль для доступа к mongo-express (не имеет ничего общего с паролем от БД)
 * ``ME_CONFIG_MONGODB_AUTH_USERNAME`` \- имя пользователя mongodb (то, что указывалось в переменной ``MONGO_INITDB_ROOT_USERNAME``)
 * Секрет ``ME_CONFIG_MONGODB_AUTH_PASSWORD`` \- пароль для доступа к mongodb (то, что указывалось в секрете ``MONGO_INITDB_ROOT_PASSWORD``)
 * Переменная ``ME_CONFIG_MONGODB_SERVER`` \- внутреннее доменное имя проекта с mongodb
 
-### 3\. В разделе «Настройки» приложения активируем [бесплатное доменное имя](<../applications/configuration/network.html#бесплатное-доменное-имя-амвера>) или [добавляем свое](<../applications/configuration/network.html#свое-доменное-имя>).
+### 3\. В разделе «Настройки» приложения активируем [бесплатное доменное имя](../applications/configuration/network.md#бесплатное-доменное-имя-амвера) или [добавляем свое](../applications/configuration/network.md#свое-доменное-имя).
 
 ![db_create](images/example_domain.png)
 
@@ -126,7 +126,7 @@ __
 * 03:03 Подключение к БД из другого проекта
 * 05:15 Проверка работоспособности
 
-[ Next MySQL ](<mysql.html>) [ Previous SQLite ](<sqlite.html>)
+[ Next MySQL ](mysql.md) [ Previous SQLite ](sqlite.md)
 
 Copyright © 2024, Amvera 
 

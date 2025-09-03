@@ -53,7 +53,7 @@ __
 
 ## Заполнение репозитория
 
-Чтобы код можно было собрать и запустить, необходимо наличие [файла конфигурации amvera.yaml](<../configuration/config-file.html>) и/или [Dockerfile](<../configuration/docker.html>). Советуем также ознакомиться с процессом [сборки](<../build.html>) и [развертывания](<../run.html>) приложения.
+Чтобы код можно было собрать и запустить, необходимо наличие [файла конфигурации amvera.yaml](../configuration/config-file.md) и/или [Dockerfile](../configuration/docker.md). Советуем также ознакомиться с процессом [сборки](../build.md) и [развертывания](../run.md) приложения.
 
 ## Развертывание проекта
 
@@ -147,9 +147,9 @@ __
 > **HINT** > > Примечание Другие частые ошибки по работе с Git собраны по ссылке 
 
 ### Если вы столкнулись с ошибкой или вам что-то непонятно
-* Ознакомьтесь с разделом [Частые ошибки](<freq-errors.html>) при работе с Git
+* Ознакомьтесь с разделом [Частые ошибки](freq-errors.md) при работе с Git
 
-[ Next Подключить GitHub, GitLab, Bitbucket ](<webhooks.html>) [ Previous Использование Amvera как основной репозиторий ](<main-origin.html>)
+[ Next Подключить GitHub, GitLab, Bitbucket ](webhooks.md) [ Previous Использование Amvera как основной репозиторий ](main-origin.md)
 
 Copyright © 2024, Amvera 
 

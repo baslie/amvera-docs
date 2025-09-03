@@ -40,7 +40,7 @@ __
 
 ![restart](images/restart.png)
 
-[ Next Масштабирование ресурса ](<scaling.html>) [ Previous Тарифные планы ](<price.html>)
+[ Next Масштабирование ресурса ](scaling.md) [ Previous Тарифные планы ](price.md)
 
 Copyright © 2024, Amvera 
 

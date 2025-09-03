@@ -83,7 +83,7 @@ __
 
 Подробную инструкцию по настройке авторизации и подключению к проектам, вы можете найти в нашей статье на [Хабр.](<https://habr.com/ru/companies/amvera/articles/907990/>)
 
-[ Next RabbitMQ ](<rabbitmq.html>) [ Previous n8n ](<n8n.html>)
+[ Next RabbitMQ ](rabbitmq.md) [ Previous n8n ](n8n.md)
 
 Copyright © 2024, Amvera 
 

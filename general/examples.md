@@ -27,25 +27,25 @@ __
 # Примеры
 
 Python
-* [Backend с использованием Flask](<examples/python-flask.html>)
-* [Телеграм бот на Python](<examples/python-tgbot.html>)
-* [Fullstack на Django](<examples/python-django.html>)
-* [Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах](<examples/miniappex.html>)
+* [Backend с использованием Flask](examples/python-flask.md)
+* [Телеграм бот на Python](examples/python-tgbot.md)
+* [Fullstack на Django](examples/python-django.md)
+* [Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах](examples/miniappex.md)
 
 Java/Kotlin
-* [Spring Boot с встраиваемой базой данных H2 и PostgreSQL](<examples/java-springboot.html>)
+* [Spring Boot с встраиваемой базой данных H2 и PostgreSQL](examples/java-springboot.md)
 
 Go
-* [Fullstack-приложение на Go c подключением к PostgreSQL](<examples/go-postgresql.html>)
-* [Fullstack на Go](<examples/go_full.html>)
+* [Fullstack-приложение на Go c подключением к PostgreSQL](examples/go-postgresql.md)
+* [Fullstack на Go](examples/go_full.md)
 
 Ruby
-* [Ruby on Rails c базой данных SQLite](<examples/Ruby-SQLite.html>)
+* [Ruby on Rails c базой данных SQLite](examples/Ruby-SQLite.md)
 
 С#
-* [Web-приложение на C# Microsoft (.NET) с подключением к SQLite](<examples/NET-SQLite.html>)
+* [Web-приложение на C# Microsoft (.NET) с подключением к SQLite](examples/NET-SQLite.md)
 
-[ Next Backend с использованием Flask ](<examples/python-flask.html>) [ Previous Home ](<../index.html>)
+[ Next Backend с использованием Flask ](examples/python-flask.md) [ Previous Home ](../index.md)
 
 Copyright © 2024, Amvera 
 

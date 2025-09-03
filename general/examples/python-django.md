@@ -33,7 +33,7 @@ __
 
 Напишите наблюдаемую вами симптоматику на support@amvera.ru с указанием вашего имени пользователя и названия проекта, мы постараемся вам помочь.
 
-[ Next Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах ](<miniappex.html>) [ Previous Телеграм бот на Python ](<python-tgbot.html>)
+[ Next Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах ](miniappex.md) [ Previous Телеграм бот на Python ](python-tgbot.md)
 
 Copyright © 2024, Amvera 
 

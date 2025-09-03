@@ -87,7 +87,7 @@ Amvera списывает со счета пользователя средст�
 
 ![balance_details](images/balance_details.png)
 
-[ Next Тарифные планы ](<price.html>) [ Previous Amvera LLM Inference ](<../LLM/doc-inference-ru.html>)
+[ Next Тарифные планы ](price.md) [ Previous Amvera LLM Inference ](../LLM/doc-inference-ru.md)
 
 Copyright © 2024, Amvera 
 

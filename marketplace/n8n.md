@@ -145,7 +145,7 @@ N8N_SMTP_SSL`: true
 
 Вместо ``"model": "llama70b"``, можно использовать любую другую модель, доступную в Amvera Inference API
 
-[ Next Keycloak ](<Keycloack.html>) [ Previous Qdrant ](<../databases/Qdrant.html>)
+[ Next Keycloak ](Keycloack.md) [ Previous Qdrant ](../databases/Qdrant.md)
 
 Copyright © 2024, Amvera 
 

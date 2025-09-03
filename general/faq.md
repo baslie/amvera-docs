@@ -27,23 +27,23 @@ __
 # Частые ошибки
 
 Приложения
-* [Ошибки в логах и их причины](<FAQ/errors-in-logs.html>)
-* [Не получается обновить проект](<FAQ/update.html>)
-* [Не сохраняются данные при перезапуске/пересборке приложения/базы данных](<FAQ/data-saving.html>)
-* [502/503 ошибка при статусе «Приложение запущено»](<FAQ/502-503-error.html>)
-* [Бесконечный запуск, сборка или отсутствие логов](<FAQ/infinite-build-run.html>)
-* [Не работает телеграм-бот](<FAQ/tgbot.html>)
-* [Ошибка venv в Python при сборке или запуске приложения](<FAQ/enverror.html>)
-* [Не найден файл (no such file or directory …)](<FAQ/not-found-file.html>)
-* [Используется другой часовой пояс (на серверах - UTC)](<FAQ/UTC-time.html>)
+* [Ошибки в логах и их причины](FAQ/errors-in-logs.md)
+* [Не получается обновить проект](FAQ/update.md)
+* [Не сохраняются данные при перезапуске/пересборке приложения/базы данных](FAQ/data-saving.md)
+* [502/503 ошибка при статусе «Приложение запущено»](FAQ/502-503-error.md)
+* [Бесконечный запуск, сборка или отсутствие логов](FAQ/infinite-build-run.md)
+* [Не работает телеграм-бот](FAQ/tgbot.md)
+* [Ошибка venv в Python при сборке или запуске приложения](FAQ/enverror.md)
+* [Не найден файл (no such file or directory …)](FAQ/not-found-file.md)
+* [Используется другой часовой пояс (на серверах - UTC)](FAQ/UTC-time.md)
 
 git
-* [Ошибки при работе с git](<../applications/git/freq-errors.html>)
+* [Ошибки при работе с git](../applications/git/freq-errors.md)
 
 Общее
-* [Проблема с оплатой](<FAQ/payments.html>)
+* [Проблема с оплатой](FAQ/payments.md)
 
-[ Next Ошибки в логах и их причины ](<FAQ/errors-in-logs.html>) [ Previous Быстрый старт ](<../applications/quick-start.html>)
+[ Next Ошибки в логах и их причины ](FAQ/errors-in-logs.md) [ Previous Быстрый старт ](../applications/quick-start.md)
 
 Copyright © 2024, Amvera 
 
