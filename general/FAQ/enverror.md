@@ -1,0 +1,77 @@
+---
+title: Ошибка venv в Python при сборке или запуске приложения¶
+url: https://docs.amvera.ru/general/FAQ/enverror.html
+path: general/FAQ/enverror
+prev: Не работает телеграм-бот
+next: Не найден файл (no such file or directory …)
+---
+
+# Ошибка venv в Python при сборке или запуске приложения¶
+
+## Содержание
+
+- Ошибка venv в Python при сборке или запуске приложения
+- Несоответствие версии библиотек версии окружения:
+  - Решение:
+- Не все файлы после заморозки проекта удалились:
+- Вы случайно загрузили папку Venv (для Python)
+
+---
+
+Back to top
+
+[ View this page ](<../../_sources/general/FAQ/enverror.md.txt> "View this page")
+
+Toggle Light / Dark / Auto color theme
+
+Toggle table of contents sidebar
+
+__
+
+# Ошибка venv в Python при сборке или запуске приложения
+
+## Несоответствие версии библиотек версии окружения:
+
+Проблема с тем, что pip (если вы используете Python) находит не те версии библиотеки.
+
+К примеру: wavelink, если оставить версию Python дефолтной (3.8), то из-за того, что wavelink требует Python >= 3.10, найдутся совершенно другие версии. А узнать об этом можно только изучив в pypi.org.
+
+### Решение:
+
+Вы можете изменить версию Python в конфигурационном файле, либо версии зависимостей в файле requirements.txt.
+
+> **HINT** > > Подсказка Если не получается разобраться, пишите в поддержку support@amvera.ru. Просим сразу указывать имя пользователя и проекта. Мы постараемся помочь. 
+
+## Не все файлы после заморозки проекта удалились:
+
+**Только на стандартных, устаревших сборках**.
+
+Если заморозить проект и сразу же пересобрать, то папка venv в Artifacts, отвечающая за окружение Python, повреждается, не успевая удалиться перед новой сборкой, из-за чего возникают ошибки вида:
+* ``ERROR: Could not install packages due to an OSError: [Errno 13] Permission denied: '/.local'``
+* ``/app/venv/bin/python3: No module named pip.__main__; 'pip' is a package and cannot be directly executed``
+* ``Error: [Errno 13] Permission denied: '/app/venv'``
+
+Решить можно полной очисткой Artifacts. Для этого нужно перейти в «Настройки» и повторно заморозить проект, но на этот раз дать больше времени (около 20 секунд) для того, чтобы папка venv успевала удалиться и не вызывала конфликтов во время сборки.
+
+Если заморозка не помогла, но ранее этот проект успешно собирался, попробуйте развернуть приложение в новом проекте, и напишите об этом в support@amvera.ru
+
+## Вы случайно загрузили папку Venv (для Python)
+
+Если вы используете Python, папку Venv загружать не нужно. Зависимости следует устанавливать, прописывая их в файле requirements.txt
+
+Вы можете составить его через pip freeze, но мы рекомендуем прописать их руками, так-как pip freeze дает много лишних зависимостей, что может приводить к конфликтам окружений.
+
+[ Next Не найден файл (no such file or directory …) ](<not-found-file.html>) [ Previous Не работает телеграм-бот ](<tgbot.html>)
+
+Copyright © 2024, Amvera 
+
+Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://pradyunsg.me>)'s [Furo](<https://github.com/pradyunsg/furo>)
+
+
+---
+
+### Навигация
+
+← [Не работает телеграм-бот](https://docs.amvera.ru/tgbot.html)
+
+→ [Не найден файл (no such file or directory …)](https://docs.amvera.ru/not-found-file.html)

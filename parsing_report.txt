@@ -1,0 +1,319 @@
+РАСШИРЕННЫЙ ОТЧЕТ О ПАРСИНГЕ
+============================================================
+
+ОСНОВНАЯ СТАТИСТИКА:
+------------------------------
+Начало: 2025-09-04 01:21:52.838697
+Окончание: 2025-09-04 01:23:16.712988
+Длительность: 0:01:23.874291
+
+Попыток загрузки страниц: 74
+Успешно обработано: 74
+Ошибок: 3
+Пропущено (дубли): 0
+Всего найдено ссылок: 5699
+
+МЕДИАФАЙЛЫ:
+------------------------------
+Изображений скачано: 100
+Сохранены в директории: amvera_docs_structured/images/
+
+Список скачанных изображений:
+  https://docs.amvera.ru/_images/run_proc.png
+    -> images/run_proc.png
+  https://docs.amvera.ru/_images/load_logs.png
+    -> images/load_logs_2.png
+  https://docs.amvera.ru/_images/qdrant-create.png
+    -> images/qdrant-create.png
+  https://docs.amvera.ru/_images/qdrant-domain.jpg
+    -> images/qdrant-domain.jpg
+  https://docs.amvera.ru/_images/network_proc.png
+    -> images/network_proc.png
+  https://docs.amvera.ru/_images/web_ports.png
+    -> images/web_ports.png
+  https://docs.amvera.ru/_images/default_domain.png
+    -> images/default_domain.png
+  https://docs.amvera.ru/_images/reg_ru.png
+    -> images/reg_ru.png
+  https://docs.amvera.ru/_images/topup.png
+    -> images/topup.png
+  https://docs.amvera.ru/_images/robokassa.png
+    -> images/robokassa.png
+  https://docs.amvera.ru/_images/promo.png
+    -> images/promo.png
+  https://docs.amvera.ru/_images/auto_topup.png
+    -> images/auto_topup.png
+  https://docs.amvera.ru/_images/balance_details.png
+    -> images/balance_details.png
+  https://docs.amvera.ru/_images/data_backups.png
+    -> images/data_backups.png
+  https://docs.amvera.ru/_images/mysql_info.png
+    -> images/mysql_info.png
+  https://docs.amvera.ru/_images/phpmyadmin_create.png
+    -> images/phpmyadmin_create.png
+  https://docs.amvera.ru/_images/phpmyadmin_variables.png
+    -> images/phpmyadmin_variables.png
+  https://docs.amvera.ru/_images/pgadmin_domain.png
+    -> images/pgadmin_domain_2.png
+  https://docs.amvera.ru/_images/phpmyadmin_connect.png
+    -> images/phpmyadmin_connect.png
+  https://docs.amvera.ru/_images/phpmyadmin_success.png
+    -> images/phpmyadmin_success.png
+  https://docs.amvera.ru/_images/postgresql.png
+    -> images/postgresql.png
+  https://docs.amvera.ru/_images/postgresql_backups.png
+    -> images/postgresql_backups.png
+  https://docs.amvera.ru/_images/postgresql_restore.png
+    -> images/postgresql_restore.png
+  https://docs.amvera.ru/_images/main.png
+    -> images/main.png
+  https://docs.amvera.ru/_images/actions.png
+    -> images/actions.png
+  https://docs.amvera.ru/_images/git_main.png
+    -> images/git_main_1.png
+  https://docs.amvera.ru/_images/python_config.png
+    -> images/python_config.png
+  https://docs.amvera.ru/_images/quick-start1.png
+    -> images/quick-start1.png
+  https://docs.amvera.ru/_images/quick-start2.png
+    -> images/quick-start2_1.png
+  https://docs.amvera.ru/_images/quick-start4.png
+    -> images/quick-start4.png
+  https://docs.amvera.ru/_images/quick-start5.png
+    -> images/quick-start5.png
+  https://docs.amvera.ru/_images/settings.png
+    -> images/settings.png
+  https://docs.amvera.ru/_images/disposion.png
+    -> images/disposion.png
+  https://docs.amvera.ru/_images/scaling.png
+    -> images/scaling.png
+  https://docs.amvera.ru/_images/scaled.png
+    -> images/scaled.png
+  https://docs.amvera.ru/_images/go_full_test_web_app.png
+    -> images/go_full_test_web_app.png
+  https://docs.amvera.ru/_images/go_full_app_example.png
+    -> images/go_full_app_example.png
+  https://docs.amvera.ru/_images/joomla_create.png
+    -> images/joomla_create.png
+  https://docs.amvera.ru/_images/joomla_envvars.png
+    -> images/joomla_envvars.png
+  https://docs.amvera.ru/_images/joomla_domain.png
+    -> images/joomla_domain.png
+  https://docs.amvera.ru/_images/joomla_login_page.png
+    -> images/joomla_login_page.png
+  https://docs.amvera.ru/_images/joomla_admin.png
+    -> images/joomla_admin.png
+  https://docs.amvera.ru/_images/joomla_menus.png
+    -> images/joomla_menus.png
+  https://docs.amvera.ru/_images/joomla_add_content.png
+    -> images/joomla_add_content.png
+  https://docs.amvera.ru/_images/build_proc.png
+    -> images/build_proc.png
+  https://docs.amvera.ru/_images/rebuild.png
+    -> images/rebuild.png
+  https://docs.amvera.ru/_images/configuration.png
+    -> images/configuration.png
+  https://docs.amvera.ru/_images/data_folder.png
+    -> images/data_folder.png
+  https://docs.amvera.ru/_images/folder-select.png
+    -> images/folder-select.png
+  https://docs.amvera.ru/_images/uploaded-file.png
+    -> images/uploaded-file.png
+  https://docs.amvera.ru/_images/download-files.png
+    -> images/download-files.png
+  https://docs.amvera.ru/_images/python-tgbot.png
+    -> images/python-tgbot_1.png
+  https://docs.amvera.ru/_images/keycloack-create.jpg
+    -> images/keycloack-create.jpg
+  https://docs.amvera.ru/_images/keycloack-envvars.png
+    -> images/keycloack-envvars.png
+  https://docs.amvera.ru/_images/keycloack-domain.png
+    -> images/keycloack-domain.png
+  https://docs.amvera.ru/_images/keycloack-hostname.png
+    -> images/keycloack-hostname.png
+  https://docs.amvera.ru/_images/keyckloack-restart-project.jpg
+    -> images/keyckloack-restart-project.jpg
+  https://docs.amvera.ru/_images/wordpress_create.png
+    -> images/wordpress_create.png
+  https://docs.amvera.ru/_images/wordpress_envvars.png
+    -> images/wordpress_envvars.png
+  https://docs.amvera.ru/_images/wordpress_domain.png
+    -> images/wordpress_domain.png
+  https://docs.amvera.ru/_images/wordpress_language.png
+    -> images/wordpress_language.png
+  https://docs.amvera.ru/_images/wordpress_site_name.png
+    -> images/wordpress_site_name.png
+  https://docs.amvera.ru/_images/wordpress_login.png
+    -> images/wordpress_login.png
+  https://docs.amvera.ru/_images/wordpress_admin_panel.png
+    -> images/wordpress_admin_panel.png
+  https://docs.amvera.ru/_images/wordpress_add_content1.png
+    -> images/wordpress_add_content1.png
+  https://docs.amvera.ru/_images/wordpress_add_content2.png
+    -> images/wordpress_add_content2.png
+  https://docs.amvera.ru/_images/cli-version.png
+    -> images/cli-version.png
+  https://docs.amvera.ru/_images/cli-help.png
+    -> images/cli-help.png
+  https://docs.amvera.ru/_images/cli-login.png
+    -> images/cli-login.png
+  https://docs.amvera.ru/_images/cli-help-flag.png
+    -> images/cli-help-flag.png
+  https://docs.amvera.ru/_images/cli-boolean.png
+    -> images/cli-boolean.png
+  https://docs.amvera.ru/_images/n8n.png
+    -> images/n8n.png
+  https://docs.amvera.ru/_images/mongo_env.png
+    -> images/mongo_env.png
+  https://docs.amvera.ru/_images/example_domain.png
+    -> images/example_domain.png
+  https://docs.amvera.ru/_images/tarifs.png
+    -> images/tarifs.png
+  https://docs.amvera.ru/_images/selected_tariff.png
+    -> images/selected_tariff.png
+  https://docs.amvera.ru/_images/restart.png
+    -> images/restart.png
+  https://docs.amvera.ru/_images/github_token_contents_permission.png
+    -> images/github_token_contents_permission.png
+  https://docs.amvera.ru/_images/github_token_hook_permission.png
+    -> images/github_token_hook_permission.png
+  https://docs.amvera.ru/_images/github_token_settings.png
+    -> images/github_token_settings.png
+  https://docs.amvera.ru/_images/github_all_token_permissions.png
+    -> images/github_all_token_permissions.png
+  https://docs.amvera.ru/_images/gitlab_token_permissions.png
+    -> images/gitlab_token_permissions.png
+  https://docs.amvera.ru/_images/bitbucket_token_permissions.png
+    -> images/bitbucket_token_permissions.png
+  https://docs.amvera.ru/_images/bitbucket_token_copy.png
+    -> images/bitbucket_token_copy.png
+  https://docs.amvera.ru/_images/webhook_configured.png
+    -> images/webhook_configured.png
+  https://docs.amvera.ru/_images/webhook-add.png
+    -> images/webhook-add.png
+  https://docs.amvera.ru/_images/webhook-github.png
+    -> images/webhook-github.png
+  https://docs.amvera.ru/_images/docker_proc.png
+    -> images/docker_proc.png
+  https://docs.amvera.ru/_images/redis_envvars.png
+    -> images/redis_envvars.png
+  https://docs.amvera.ru/_images/redis-insight.png
+    -> images/redis-insight.png
+  https://docs.amvera.ru/_images/drupal_create.png
+    -> images/drupal_create.png
+  https://docs.amvera.ru/_images/drupal_domain.png
+    -> images/drupal_domain.png
+  https://docs.amvera.ru/_images/drupal_language.png
+    -> images/drupal_language.png
+  https://docs.amvera.ru/_images/drupal_profile.png
+    -> images/drupal_profile.png
+  https://docs.amvera.ru/_images/drupal_db.png
+    -> images/drupal_db.png
+  https://docs.amvera.ru/_images/drupal_main_page_start.png
+    -> images/drupal_main_page_start.png
+  https://docs.amvera.ru/_images/drupal_content.png
+    -> images/drupal_content.png
+  https://docs.amvera.ru/_images/drupal_add_content.png
+    -> images/drupal_add_content.png
+  https://docs.amvera.ru/_images/secrets_vars.png
+    -> images/secrets_vars.png
+  https://docs.amvera.ru/_images/create_env.png
+    -> images/create_env.png
+
+СТРУКТУРА ДОКУМЕНТАЦИИ:
+------------------------------
+Всего markdown файлов: 74
+Директория сохранения: amvera_docs_structured/
+Файлы документации:
+  LLM/doc-inference-ru.md - Amvera LLM Inference¶...
+  applications/backups.md - Бэкапы¶...
+  applications/build.md - Сборка¶...
+  applications/configuration.md - Конфигурация¶...
+  applications/configuration/config-file.md - Файл конфигурации¶...
+  applications/configuration/docker.md - Docker¶...
+  applications/configuration/heroku-migration.md - Перенос проекта из Heroku¶...
+  applications/configuration/network.md - Сетевое взаимодействие¶...
+  applications/configuration/variables.md - Переменные и секреты¶...
+  applications/environments/csharp-dotnet.md - С# Microsoft(.NET)¶...
+  applications/environments/csharp-mono.md - C# mono¶...
+  applications/environments/ffmpeg-pip.md - ffmpeg¶...
+  applications/environments/golang-go.md - Go¶...
+  applications/environments/jvm-gradle.md - JVM Gradle¶...
+  applications/environments/jvm-maven.md - JVM Maven¶...
+  applications/environments/nodejs-browser.md - Node.JS Browser¶...
+  applications/environments/nodejs-server.md - Node.JS Server¶...
+  applications/environments/python-pip.md - Python Pip¶...
+  applications/environments/ruby-bundle.md - Ruby (Rails)¶...
+  applications/environments/selenium-chromedriver.md - Selenium и Chromedriver¶...
+  applications/git.md - Git¶...
+  applications/git/freq-errors.md - Ошибки при работе с git¶...
+  applications/git/main-origin.md - Использование Amvera как основной репозиторий¶...
+  applications/git/secondary-origin.md - Подключение к существующему репозиторию¶...
+  applications/git/webhooks.md - Подключить GitHub, GitLab, Bitbucket¶...
+  applications/quick-start.md - Быстрый старт¶...
+  applications/run.md - Запуск¶...
+  applications/storage.md - Хранилище и пути¶...
+  applications/supported-env.md - Поддерживаемые окружения¶...
+  applications/version-control.md - Контроль версий¶...
+  databases/Qdrant.md - Qdrant¶...
+  databases/memcached.md - Memcached¶...
+  databases/mongodb.md - MongoDB¶...
+  databases/mysql.md - MySQL¶...
+  databases/postgreSQL.md - PostgreSQL¶...
+  databases/redis.md - Redis¶...
+  databases/sqlite.md - SQLite¶...
+  general/FAQ/502-503-error.md - 502/503 ошибка при статусе «Приложение запущено»¶...
+  general/FAQ/UTC-time.md - Используется другой часовой пояс (на серверах - UT...
+  general/FAQ/data-saving.md - Не сохраняются данные при перезапуске/пересборке п...
+  general/FAQ/enverror.md - Ошибка venv в Python при сборке или запуске прилож...
+  general/FAQ/errors-in-logs.md - Ошибки в логах и их причины¶...
+  general/FAQ/infinite-build-run.md - Бесконечный запуск, сборка или отсутствие логов¶...
+  general/FAQ/not-found-file.md - Не найден файл (no such file or directory …)¶...
+  general/FAQ/payments.md - Проблема с оплатой¶...
+  general/FAQ/tgbot.md - Не работает телеграм-бот¶...
+  general/FAQ/update.md - Не получается обновить проект¶...
+  general/cli.md - CLI. Управление через командную строку¶...
+  general/disposion.md - Удаление ресурса¶...
+  general/examples.md - Примеры¶...
+  general/examples/NET-SQLite.md - Web-приложение на C# Microsoft (.NET) с подключени...
+  general/examples/Ruby-SQLite.md - Ruby on Rails c базой данных SQLite¶...
+  general/examples/go-postgresql.md - Fullstack-приложение на Go c подключением к Postgr...
+  general/examples/go_full.md - Fullstack на Go¶...
+  general/examples/java-springboot.md - Spring Boot с встраиваемой базой данных H2 и Postg...
+  general/examples/miniappex.md - Mini Apps со stage и prod, привязкой GitHub, БД и ...
+  general/examples/python-django.md - Fullstack на Django¶...
+  general/examples/python-flask.md - Backend с использованием Flask¶...
+  general/examples/python-tgbot.md - Телеграм бот на Python¶...
+  general/faq.md - Частые ошибки¶...
+  general/k8sprobe.md - Поддержка проб Kubernetes¶...
+  general/notifications.md - Уведомления о сбоях¶...
+  general/price.md - Тарифные планы¶...
+  general/scaling.md - Масштабирование ресурса¶...
+  general/sla.md - SLA¶...
+  general/tarifs.md - Смена тарифного плана¶...
+  general/topup.md - Пополнение счета¶...
+  index.md - Руководство Amvera Cloud¶...
+  marketplace/Keycloack.md - Keycloak¶...
+  marketplace/drupal.md - Drupal¶...
+  marketplace/joomla.md - Joomla¶...
+  marketplace/n8n.md - n8n¶...
+  marketplace/rabbitmq.md - RabbitMQ¶...
+  marketplace/wordpress.md - WordPress¶...
+
+ПРОБЛЕМНЫЕ URL:
+------------------------------
+https://docs.amvera.ru/books/amvera/page/nodejs-server.html
+  Причина: 404 Client Error: Not Found for url: https://docs.amvera.ru/books/amvera/page/nodejs-server.html
+
+https://docs.amvera.ru/books/amvera/page/fail-konfiguracii.html
+  Причина: 404 Client Error: Not Found for url: https://docs.amvera.ru/books/amvera/page/fail-konfiguracii.html
+
+https://docs.amvera.ru/books/amvera/page/docker.html
+  Причина: 404 Client Error: Not Found for url: https://docs.amvera.ru/books/amvera/page/docker.html
+
+РЕКОМЕНДАЦИИ:
+------------------------------
+1. Проверьте файлы .md на корректность ссылок
+2. Убедитесь, что изображения отображаются корректно
+3. При ошибках 404 - проверьте структуру исходного сайта
+4. Все изображения сохранены в images/ директории
