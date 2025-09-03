@@ -33,23 +33,23 @@ __
 * Задайте параметры сервиса: low-code
 * Задайте тип сервиса: Drupal
 
-![drupal_create](images/drupal_create.png)
+![drupal_create](../images/drupal_create.png)
 
 Открыть ссылку во вкладке «Домены»
 
-![drupal_domain](images/drupal_domain.png)
+![drupal_domain](../images/drupal_domain.png)
 
 Выбрать язык
 
-![drupal_language](images/drupal_language.png)
+![drupal_language](../images/drupal_language.png)
 
 Выбрать профиль
 
-![drupal_profile](images/drupal_profile.png)
+![drupal_profile](../images/drupal_profile.png)
 
 Выбрать базу данных
 
-![drupal_db](images/drupal_db.png)
+![drupal_db](../images/drupal_db.png)
 
 Заполнить поля
 * Название сайта
@@ -60,17 +60,17 @@ __
 
 ## Пример
 
-![drupal_main_page_start](images/drupal_main_page_start.png)
+![drupal_main_page_start](../images/drupal_main_page_start.png)
 
 Перейти в раздел «Content»
 
-![drupal_content](images/drupal_content.png)
+![drupal_content](../images/drupal_content.png)
 
 Нажать на кнопку «Add content»
 
 Заполнить поля и сохранить
 
-![drupal_add_content](images/drupal_add_content.png)
+![drupal_add_content](../images/drupal_add_content.png)
 
 [ Next WordPress ](wordpress.md) [ Previous Joomla ](joomla.md)
 

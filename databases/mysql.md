@@ -65,7 +65,7 @@ __
 
 Для доступа к базе данных из других проектов Амвера необходимо указать доменное имя, которое находится на вкладке «Инфо».
 
-![internal_domain](images/mysql_info.png)
+![internal_domain](../images/mysql_info.png)
 
 ## Развертывание phpMyAdmin
 
@@ -76,7 +76,7 @@ __
 
 > **ATTENTION** > > Внимание Для работы phpMyAdmin требуется выбрать тариф «Начальный». 
 
-![phpmyadmin_create](images/phpmyadmin_create.png)
+![phpmyadmin_create](../images/phpmyadmin_create.png)
 
 ### 2\. Указать необходимые переменные окружения.
 
@@ -84,24 +84,24 @@ __
 * Переменная ``PMA_ABSOLUTE_URI`` \- ссылка на приложение (в формате ``https://<транслитерированное-имя-проекта>-<имя-пользователя>.amvera.io``)
 * Переменная ``PMA_ARBITRARY``, установленная в 1
 
-![phpmyadmin_variables](images/phpmyadmin_variables.png)
+![phpmyadmin_variables](../images/phpmyadmin_variables.png)
 
 ### 3\. Активировать в настройках [бесплатное доменное имя](../applications/configuration/network.md#бесплатное-доменное-имя-амвера) или [добавляем свое](../applications/configuration/network.md#свое-доменное-имя).
 
-![db_create](images/pgadmin_domain.png)
+![db_create](../images/pgadmin_domain.png)
 
 > **HINT** > > Хитрость Чтобы экономить на потреблении проекта с phpMyAdmin рекомендуем ставить его на паузу после окончания работы. 
 
 ### 4\. Подключиться к кластеру MySQL
 
-![phpmyadmin_connect](images/phpmyadmin_connect.png)
+![phpmyadmin_connect](../images/phpmyadmin_connect.png)
 * введите внутренне доменное имя
 * имя пользователя (по дефолту создается пользователь ``root``)
 * пароль пользователя (для ``root`` пользователя Вы устанавливали пароль при создании кластера)
 
 > **⚠️ Предупреждение** > > Важно Доступ ко всем базам данных имеет только пользователь root. Вы можете зайти под иным созданным пользователем, тогда будет открыт доступ только к той бд, в которой он был создан. 
 
-![phpmyadmin_success](images/phpmyadmin_success.png)
+![phpmyadmin_success](../images/phpmyadmin_success.png)
 
 ## Видеопример как использовать MySQL и phpMyAdmin в Amvera Cloud
 

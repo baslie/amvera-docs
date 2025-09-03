@@ -38,15 +38,15 @@ GitHub
 
 Для токена потребуются следующие разрешения:
 
-![Изображение](images/github_token_contents_permission.png) ![Изображение](images/github_token_hook_permission.png)
+![Изображение](../../images/github_token_contents_permission.png) ![Изображение](../../images/github_token_hook_permission.png)
 
 Дополнительно можете установить следующие настройки:
 
-![Изображение](images/github_token_settings.png)
+![Изображение](../../images/github_token_settings.png)
 
 В конечном результате вы должны получить токен с следующими правами:
 
-![Изображение](images/github_all_token_permissions.png)
+![Изображение](../../images/github_all_token_permissions.png)
 
 GitLab
 
@@ -54,7 +54,7 @@ GitLab
 
 Для токена потребуются следующие разрешения:
 
-![Изображение](images/gitlab_token_permissions.png)
+![Изображение](../../images/gitlab_token_permissions.png)
 
 Bitbucket
 
@@ -62,15 +62,15 @@ Bitbucket
 
 Для токена потребуются следующие разрешения:
 
-![Изображение](images/bitbucket_token_permissions.png)
+![Изображение](../../images/bitbucket_token_permissions.png)
 
 Вам потребуется скопировать и вставить первую строчку:
 
-![Изображение](images/bitbucket_token_copy.png)
+![Изображение](../../images/bitbucket_token_copy.png)
 
 Созданный токен вам нужно вставить в соответсвующее поле и выбрать репозиторий и актуальную ветку.
 
-![Изображение](images/webhook_configured.png)
+![Изображение](../../images/webhook_configured.png)
 
 После создания вебхука сделайте пуш в удаленный репозиторий, ваши изменения применятся в репозитории Амвера и сборка начнется автоматически.
 
@@ -91,7 +91,7 @@ Bitbucket
 * Скопируйте предлагаемый адрес
 * Нажмите «Применить»
 
-![Изображение](images/webhook-add.png)
+![Изображение](../../images/webhook-add.png)
 
 > **⚠️ Предупреждение** > > Важно CI для GitHub - Worflow runs, для GitLab - Pipeline events. Во время git pull используется merge strategy their. 
 
@@ -103,7 +103,7 @@ Bitbucket
 * Выберите ивент, на который вы хотите начать сборку проекта (Push / Workflow runs). На остальные ивенты Amvera будет отвечать статусом 400
 * Нажмите «Add webhook»
 
-![Изображение](images/webhook-github.png)
+![Изображение](../../images/webhook-github.png)
 
 Теперь можете делать git push в удаленный GitHub репозиторий, после все изменения будут применяться в Amvera репозитории. Сборка начнется автоматически.
 

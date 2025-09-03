@@ -35,21 +35,21 @@ __
 * Задайте параметры сервиса: low-code
 * Задайте тип сервиса: WordPress
 
-![wordpress_create](images/wordpress_create.png)
+![wordpress_create](../images/wordpress_create.png)
 
 Заполнить переменные окружения
 
 WORDPRESS_DB_HOST - host базы данных WORDPRESS_DB_NAME - имя базы данных WORDPRESS_DB_USER - имя пользователя базы данных WORDPRESS_DB_PASSWORD - пароль базы данных
 
-![wordpress_envvars](images/wordpress_envvars.png)
+![wordpress_envvars](../images/wordpress_envvars.png)
 
 Открыть ссылку во вкладке «Домены»
 
-![wordpress_domain](images/wordpress_domain.png)
+![wordpress_domain](../images/wordpress_domain.png)
 
 Выбрать язык
 
-![wordpress_language](images/wordpress_language.png)
+![wordpress_language](../images/wordpress_language.png)
 
 Ввести
 * название сайта
@@ -57,21 +57,21 @@ WORDPRESS_DB_HOST - host базы данных WORDPRESS_DB_NAME - имя баз
 * пароль администратора
 * email администратора
 
-![wordpress_site_name](images/wordpress_site_name.png)
+![wordpress_site_name](../images/wordpress_site_name.png)
 
 ## Пример
 
 Войти под учётными данными администратора
 
-![wordpress_login](images/wordpress_login.png)
+![wordpress_login](../images/wordpress_login.png)
 
-![wordpress_admin_panel](images/wordpress_admin_panel.png)
+![wordpress_admin_panel](../images/wordpress_admin_panel.png)
 
-![wordpress_add_content1](images/wordpress_add_content1.png)
+![wordpress_add_content1](../images/wordpress_add_content1.png)
 
 Нажать «Save»
 
-![wordpress_add_content2](images/wordpress_add_content2.png)
+![wordpress_add_content2](../images/wordpress_add_content2.png)
 
 [ Next Amvera LLM Inference ](../LLM/doc-inference-ru.md) [ Previous Drupal ](drupal.md)
 

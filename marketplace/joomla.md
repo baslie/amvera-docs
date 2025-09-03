@@ -35,33 +35,33 @@ __
 * Задайте параметры сервиса: low-code
 * Задайте тип сервиса: Joomla
 
-![joompla_create](images/joomla_create.png)
+![joompla_create](../images/joomla_create.png)
 
 ## Заполнить переменные окружения
 
 **JOOMLA_DB_TYPE** \- тип базы данных (pgsql - PostgreSQL, mysqli - MySQL) **JOOMLA_DB_HOST** \- url базы данных **JOOMLA_DB_USER** \- имя пользователя базы данных **JOOMLA_DB_PASSWORD** \- пароль базы данных **JOOMLA_DB_NAME** \- имя базы данных **JOOMLA_SITE_NAME** \- название сайта **JOOMLA_ADMIN_USER** \- имя администратора сайта **JOOMLA_ADMIN_USERNAME** \- логин администратора сайта **JOOMLA_ADMIN_PASSWORD** \- пароль администратора сайта **JOOMLA_ADMIN_EMAIL** \- email администратора сайта
 
-![joomla_envvars](images/joomla_envvars.png)
+![joomla_envvars](../images/joomla_envvars.png)
 
 ## Открыть ссылку во вкладке «Домены»
 
-![joomla_domain](images/joomla_domain.png)
+![joomla_domain](../images/joomla_domain.png)
 
 ## Пример
 
-![joomla_login_page](images/joomla_login_page.png)
+![joomla_login_page](../images/joomla_login_page.png)
 
 Нажать на «Open Administrator»
 
-![joomla_admin](images/joomla_admin.png)
+![joomla_admin](../images/joomla_admin.png)
 
 Перейти Menus -> All Menus Item -> New
 
-![joomla_menus](images/joomla_menus.png)
+![joomla_menus](../images/joomla_menus.png)
 
 Заполнить поля и нажать «Save»
 
-![joomla_add_content](images/joomla_add_content.png)
+![joomla_add_content](../images/joomla_add_content.png)
 
 Возвращаемся на сайт, видим, добавленный контент ![joomla_result](marketplace/assets/joomla_result.png)
 

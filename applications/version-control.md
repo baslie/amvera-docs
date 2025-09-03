@@ -36,11 +36,11 @@ __
 
 Ознакомиться с тем, как работает постоянное хранилище, можно [тут](storage.md#data).
 
-![main](images/main.png)
+![main](../images/main.png)
 
 ## Как использовать
 
-![actions](images/actions.png)
+![actions](../images/actions.png)
 
 ### Запуск предыдущих версий (роллбэк)
 

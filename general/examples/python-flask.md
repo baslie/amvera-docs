@@ -281,7 +281,7 @@ __
     
 [/code]
 
-![config](images/quick-start2_1.png)
+![config](../../images/quick-start2_1.png)
 
 После этого начнется [сборка](../../applications/build.md) и [развертывание](../../applications/run.md) приложения. Дождитесь появления статуса «Успешно развернуто».
 

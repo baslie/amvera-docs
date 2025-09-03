@@ -40,7 +40,7 @@ __
 * Параметры сервиса: Базы данных
 * Тип сервиса: Qdrant
 
-![qdrant-create](images/qdrant-create.png)
+![qdrant-create](../images/qdrant-create.png)
 
 ### 2\. Нажать «Завершить»
 
@@ -54,7 +54,7 @@ Qdrant поддерживает простую форму аутентифика
 
 Для подлючения из других проектов, развёрнутых в Amvera, воспользуйтесь Внутреннем доменным именем
 
-![qdrant-domain](images/qdrant-domain.jpg)
+![qdrant-domain](../images/qdrant-domain.jpg)
 [code] 
     ```
     from qdrant_client import QdrantClient

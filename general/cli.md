@@ -56,7 +56,7 @@ Windows
 
 Если все верно, cистема выведет примерно следующее
 
-![amvera version](images/cli-version.png)
+![amvera version](../images/cli-version.png)
 
 ## Обновления
 
@@ -81,7 +81,7 @@ Windows
 
 После авторизации все команды будут доступны.
 
-Пример вывода списка доступных команд ![amvera help](images/cli-help.png)
+Пример вывода списка доступных команд ![amvera help](../images/cli-help.png)
 
 Для начала работы с Amvera Сloud вам нужно войти под своим именем и паролем.
 
@@ -94,7 +94,7 @@ Windows
     
 [/code]
 
-![cli3](images/cli-login.png)
+![cli3](../images/cli-login.png)
 
 Внимание
 
@@ -109,11 +109,11 @@ Windows
     
 [/code]
 
-![cli4](images/cli-help-flag.png)
+![cli4](../images/cli-help-flag.png)
 
 Если требуется Boolean значение, то достаточно просто указать флаг
 
-![cli5](images/cli-boolean.png)
+![cli5](../images/cli-boolean.png)
 [code] 
     ```
     amvera psql scheduled enabled -s test -e

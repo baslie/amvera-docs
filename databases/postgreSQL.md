@@ -41,7 +41,7 @@ __
 ## Разворачивание managed-кластера
 1. На главной странице выбрать «PostgreSQL»
 2. Нажать на кнопку «Создать базу данных».
-3. Задать «Название проекта», выбрать подходящий тариф. ![postgresql-new](images/postgresql.png)
+3. Задать «Название проекта», выбрать подходящий тариф. ![postgresql-new](../images/postgresql.png)
 
 > **ATTENTION** > > Внимание Стабильная работа возможна на тарифах не ниже «Начальный». 
 4. Задать параметры СУБД PostgreSQL
@@ -100,7 +100,7 @@ __
 * Секрет ``PGADMIN_DEFAULT_PASSWORD`` \- пароль для доступа к pgAdmin (не имеет ничего общего с паролем от БД)
 
 ## Настройка pgAdmin
-1. В разделе «Настройки» приложения активируем [бесплатное доменное имя](../applications/configuration/network.md#бесплатное-доменное-имя-амвера) или [добавляем свое](../applications/configuration/network.md#свое-доменное-имя). ![db_create](images/pgadmin_domain_1.png)
+1. В разделе «Настройки» приложения активируем [бесплатное доменное имя](../applications/configuration/network.md#бесплатное-доменное-имя-амвера) или [добавляем свое](../applications/configuration/network.md#свое-доменное-имя). ![db_create](../images/pgadmin_domain_1.png)
 2. Дожидаемся окончания привязки доменного имени и переходим по нему.
 3. Вводим данные для входа в pgAdmin.
 4. Слева правой кнопкой мыши Server->Register->Server…
@@ -127,7 +127,7 @@ __
 
 Максимально вы можете создать **три** бэкапа, они также являются бесплатными.
 
-![backups](images/postgresql_backups.png)
+![backups](../images/postgresql_backups.png)
 
 ## Восстановление кластера
 
@@ -137,7 +137,7 @@ __
 
 Если восстановление идет более 20 минут (время зависит от размера БД), то обратитесь в поддержку.
 
-![restore](images/postgresql_restore.png)
+![restore](../images/postgresql_restore.png)
 
 [ Next SQLite ](sqlite.md) [ Previous Сетевое взаимодействие ](../applications/configuration/network.md)
 

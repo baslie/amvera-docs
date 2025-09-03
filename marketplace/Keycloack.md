@@ -51,7 +51,7 @@ __
 * Параметры сервиса: Авторизация
 * Тип сервиса: Keycloak
 
-![Изображение](images/keycloack-create.jpg)
+![Изображение](../images/keycloack-create.jpg)
 
 Стабильная работа возможна на тарифах не ниже «Начальный».
 
@@ -65,19 +65,19 @@ __
 * KC_DB_USERNAME — имя пользователя базы данных
 * KC_DB_PASSWORD — пароль базы данных
 
-![keycloack-envvars](images/keycloack-envvars.png)
+![keycloack-envvars](../images/keycloack-envvars.png)
 
 ### 3.В разделе «Настройки» приложения активировать [бесплатное доменное имя](<applications/configuration/network.md>) или [добавить своё](<applications/configuration/network.md>)
 
-![keycloack-domain](images/keycloack-domain.png)
+![keycloack-domain](../images/keycloack-domain.png)
 
 ### 4\. Добавить переменную KC_HOSTNAME ваше доменное имя
 
-![keycloack-hostname](images/keycloack-hostname.png)
+![keycloack-hostname](../images/keycloack-hostname.png)
 
 ### 5\. Перезапустить проект
 
-![keyckloack-restart-project](images/keyckloack-restart-project.jpg)
+![keyckloack-restart-project](../images/keyckloack-restart-project.jpg)
 
 ## Подробная инструкция по настройке Keycloack и подключению к проектам в Amvera
 

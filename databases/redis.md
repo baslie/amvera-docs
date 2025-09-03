@@ -58,7 +58,7 @@ __
 
 > **⚠️ Предупреждение** > > Важно Придумать достаточно сложный пароль для базы данных, чтобы злоумышленники не смогли получить к ней доступ. 
 
-При необходимости, можно задать и другие поддерживаемые образом параметры. Более подробно об этих параметрах можно узнать на [странице образа](<https://hub.docker.com/r/redis/redis-stack-server>). ![mongo](images/redis_envvars.png)
+При необходимости, можно задать и другие поддерживаемые образом параметры. Более подробно об этих параметрах можно узнать на [странице образа](<https://hub.docker.com/r/redis/redis-stack-server>). ![mongo](../images/redis_envvars.png)
 
 ## Подключение к БД
 
@@ -89,11 +89,11 @@ __
 * Переменная ``RIAUTHPROMPT`` = ``true``
 * RITRUSTEDORIGINS - разрешенные хосты для доступа = ``https://<транслитерированное-имя-проекта>-<имя-пользователя>.amvera.io,http://localhost:8001``.
 * Переменная RIAUTHTIMER, установленная в 30
-* Переменная RIPROXYENABLE, установленная в ``true`` ![redis-insight](images/redis-insight.png)
+* Переменная RIPROXYENABLE, установленная в ``true`` ![redis-insight](../images/redis-insight.png)
 
 ### 5\. В разделе «Настройки» приложения активируем [бесплатное доменное имя](../applications/configuration/network.md#бесплатное-доменное-имя-амвера) или [добавляем свое](../applications/configuration/network.md#свое-доменное-имя).
 
-![db_create](images/pgadmin_domain_2.png)
+![db_create](../images/pgadmin_domain_2.png)
 
 > **HINT** > > Хитрость Чтобы экономить на потреблении проекта с mongo-express рекомендуем ставить его на паузу после окончания работы. 
 
