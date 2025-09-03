@@ -206,6 +206,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Файл конфигурации](https://docs.amvera.ru/config-file.html)
+← [Файл конфигурации](config-file.md)
 
-→ [Поддерживаемые окружения](https://docs.amvera.ru/supported-env.html)
+→ [Поддерживаемые окружения](supported-env.md)

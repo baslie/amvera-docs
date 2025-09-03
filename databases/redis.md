@@ -108,6 +108,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [MySQL](https://docs.amvera.ru/mysql.html)
+← [MySQL](mysql.md)
 
-→ [Memcached](https://docs.amvera.ru/memcached.html)
+→ [Memcached](memcached.md)

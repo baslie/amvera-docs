@@ -472,6 +472,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Spring Boot с встраиваемой базой данных H2 и PostgreSQL](https://docs.amvera.ru/java-springboot.html)
+← [Spring Boot с встраиваемой базой данных H2 и PostgreSQL](java-springboot.md)
 
-→ [Fullstack на Go](https://docs.amvera.ru/go_full.html)
+→ [Fullstack на Go](go_full.md)

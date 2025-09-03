@@ -54,6 +54,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Быстрый старт](https://docs.amvera.ru/applications/quick-start.html)
+← [Быстрый старт](applications/quick-start.md)
 
-→ [Ошибки в логах и их причины](https://docs.amvera.ru/FAQ/errors-in-logs.html)
+→ [Ошибки в логах и их причины](FAQ/errors-in-logs.md)

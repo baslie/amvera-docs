@@ -51,6 +51,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Тарифные планы](https://docs.amvera.ru/price.html)
+← [Тарифные планы](price.md)
 
-→ [Масштабирование ресурса](https://docs.amvera.ru/scaling.html)
+→ [Масштабирование ресурса](scaling.md)

@@ -137,6 +137,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [SQLite](https://docs.amvera.ru/sqlite.html)
+← [SQLite](sqlite.md)
 
-→ [MySQL](https://docs.amvera.ru/mysql.html)
+→ [MySQL](mysql.md)

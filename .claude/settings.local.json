@@ -9,7 +9,11 @@
       "Bash(git commit:*)",
       "Bash(git config:*)",
       "Bash(cp:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git push:*)",
+      "Bash(python test_link_fix.py:*)",
+      "Bash(python test:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []

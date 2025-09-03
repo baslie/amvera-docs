@@ -158,6 +158,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [JVM Maven](https://docs.amvera.ru/jvm-maven.html)
+← [JVM Maven](jvm-maven.md)
 
-→ [Node.JS Server](https://docs.amvera.ru/nodejs-server.html)
+→ [Node.JS Server](nodejs-server.md)

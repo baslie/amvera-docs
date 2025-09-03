@@ -165,6 +165,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [PostgreSQL](https://docs.amvera.ru/postgreSQL.html)
+← [PostgreSQL](postgreSQL.md)
 
-→ [MongoDB](https://docs.amvera.ru/mongodb.html)
+→ [MongoDB](mongodb.md)

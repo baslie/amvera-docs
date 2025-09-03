@@ -72,6 +72,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Не работает телеграм-бот](https://docs.amvera.ru/tgbot.html)
+← [Не работает телеграм-бот](tgbot.md)
 
-→ [Не найден файл (no such file or directory …)](https://docs.amvera.ru/not-found-file.html)
+→ [Не найден файл (no such file or directory …)](not-found-file.md)

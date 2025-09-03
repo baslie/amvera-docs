@@ -88,6 +88,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Хранилище и пути](https://docs.amvera.ru/storage.html)
+← [Хранилище и пути](storage.md)
 
-→ [Запуск](https://docs.amvera.ru/run.html)
+→ [Запуск](run.md)

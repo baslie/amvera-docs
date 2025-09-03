@@ -116,6 +116,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [C# mono](https://docs.amvera.ru/csharp-mono.html)
+← [C# mono](csharp-mono.md)
 
-→ [Ruby (Rails)](https://docs.amvera.ru/ruby-bundle.html)
+→ [Ruby (Rails)](ruby-bundle.md)

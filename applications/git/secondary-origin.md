@@ -160,6 +160,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Использование Amvera как основной репозиторий](https://docs.amvera.ru/main-origin.html)
+← [Использование Amvera как основной репозиторий](main-origin.md)
 
-→ [Подключить GitHub, GitLab, Bitbucket](https://docs.amvera.ru/webhooks.html)
+→ [Подключить GitHub, GitLab, Bitbucket](webhooks.md)

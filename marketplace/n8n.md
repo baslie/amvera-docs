@@ -156,6 +156,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Qdrant](https://docs.amvera.ru/databases/Qdrant.html)
+← [Qdrant](databases/Qdrant.md)
 
-→ [Keycloak](https://docs.amvera.ru/Keycloack.html)
+→ [Keycloak](Keycloack.md)

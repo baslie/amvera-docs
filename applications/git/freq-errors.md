@@ -178,6 +178,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Используется другой часовой пояс (на серверах - UTC)](https://docs.amvera.ru/general/FAQ/UTC-time.html)
+← [Используется другой часовой пояс (на серверах - UTC)](general/FAQ/UTC-time.md)
 
-→ [Проблема с оплатой](https://docs.amvera.ru/general/FAQ/payments.html)
+→ [Проблема с оплатой](general/FAQ/payments.md)

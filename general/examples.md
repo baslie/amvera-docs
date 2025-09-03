@@ -56,6 +56,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Руководство Amvera Cloud](https://docs.amvera.ru/index.html)
+← [Руководство Amvera Cloud](index.md)
 
-→ [Backend с использованием Flask](https://docs.amvera.ru/examples/python-flask.html)
+→ [Backend с использованием Flask](examples/python-flask.md)

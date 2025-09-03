@@ -704,6 +704,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Selenium и Chromedriver](https://docs.amvera.ru/environments/selenium-chromedriver.html)
+← [Selenium и Chromedriver](environments/selenium-chromedriver.md)
 
-→ [Переменные и секреты](https://docs.amvera.ru/variables.html)
+→ [Переменные и секреты](variables.md)

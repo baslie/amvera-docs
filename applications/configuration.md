@@ -62,6 +62,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Контроль версий](https://docs.amvera.ru/version-control.html)
+← [Контроль версий](version-control.md)
 
-→ [Файл конфигурации](https://docs.amvera.ru/configuration/config-file.html)
+→ [Файл конфигурации](configuration/config-file.md)

@@ -55,6 +55,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Ошибки при работе с git](https://docs.amvera.ru/applications/git/freq-errors.html)
+← [Ошибки при работе с git](applications/git/freq-errors.md)
 
-→ [Git](https://docs.amvera.ru/applications/git.html)
+→ [Git](applications/git.md)

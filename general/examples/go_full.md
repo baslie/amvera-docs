@@ -481,6 +481,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Fullstack-приложение на Go c подключением к PostgreSQL](https://docs.amvera.ru/go-postgresql.html)
+← [Fullstack-приложение на Go c подключением к PostgreSQL](go-postgresql.md)
 
-→ [Ruby on Rails c базой данных SQLite](https://docs.amvera.ru/Ruby-SQLite.html)
+→ [Ruby on Rails c базой данных SQLite](Ruby-SQLite.md)

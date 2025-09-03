@@ -187,6 +187,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [JVM Gradle](https://docs.amvera.ru/jvm-gradle.html)
+← [JVM Gradle](jvm-gradle.md)
 
-→ [Node.JS Browser](https://docs.amvera.ru/nodejs-browser.html)
+→ [Node.JS Browser](nodejs-browser.md)

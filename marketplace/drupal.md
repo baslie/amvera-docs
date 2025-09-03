@@ -83,6 +83,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Joomla](https://docs.amvera.ru/joomla.html)
+← [Joomla](joomla.md)
 
-→ [WordPress](https://docs.amvera.ru/wordpress.html)
+→ [WordPress](wordpress.md)

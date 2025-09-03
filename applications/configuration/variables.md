@@ -95,6 +95,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Перенос проекта из Heroku](https://docs.amvera.ru/heroku-migration.html)
+← [Перенос проекта из Heroku](heroku-migration.md)
 
-→ [Сетевое взаимодействие](https://docs.amvera.ru/network.html)
+→ [Сетевое взаимодействие](network.md)

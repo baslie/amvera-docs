@@ -65,6 +65,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Keycloak](https://docs.amvera.ru/Keycloack.html)
+← [Keycloak](Keycloack.md)
 
-→ [Joomla](https://docs.amvera.ru/joomla.html)
+→ [Joomla](joomla.md)

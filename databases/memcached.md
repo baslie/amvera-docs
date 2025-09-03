@@ -58,6 +58,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Redis](https://docs.amvera.ru/redis.html)
+← [Redis](redis.md)
 
-→ [Qdrant](https://docs.amvera.ru/Qdrant.html)
+→ [Qdrant](Qdrant.md)

@@ -54,5 +54,5 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [SLA](https://docs.amvera.ru/sla.html)
+← [SLA](sla.md)
 

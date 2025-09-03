@@ -104,6 +104,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Node.JS Server](https://docs.amvera.ru/nodejs-server.html)
+← [Node.JS Server](nodejs-server.md)
 
-→ [C# mono](https://docs.amvera.ru/csharp-mono.html)
+→ [C# mono](csharp-mono.md)

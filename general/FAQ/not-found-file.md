@@ -62,6 +62,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Ошибка venv в Python при сборке или запуске приложения](https://docs.amvera.ru/enverror.html)
+← [Ошибка venv в Python при сборке или запуске приложения](enverror.md)
 
-→ [Используется другой часовой пояс (на серверах - UTC)](https://docs.amvera.ru/UTC-time.html)
+→ [Используется другой часовой пояс (на серверах - UTC)](UTC-time.md)

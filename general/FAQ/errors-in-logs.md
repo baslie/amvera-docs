@@ -167,6 +167,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Частые ошибки](https://docs.amvera.ru/faq.html)
+← [Частые ошибки](faq.md)
 
-→ [Не получается обновить проект](https://docs.amvera.ru/update.html)
+→ [Не получается обновить проект](update.md)

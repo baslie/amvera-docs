@@ -120,6 +120,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Web-приложение на C# Microsoft (.NET) с подключением к SQLite](https://docs.amvera.ru/general/examples/NET-SQLite.html)
+← [Web-приложение на C# Microsoft (.NET) с подключением к SQLite](general/examples/NET-SQLite.md)
 
-→ [Частые ошибки](https://docs.amvera.ru/general/faq.html)
+→ [Частые ошибки](general/faq.md)

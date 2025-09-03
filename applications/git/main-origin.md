@@ -91,6 +91,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Git](https://docs.amvera.ru/git.html)
+← [Git](git.md)
 
-→ [Подключение к существующему репозиторию](https://docs.amvera.ru/secondary-origin.html)
+→ [Подключение к существующему репозиторию](secondary-origin.md)

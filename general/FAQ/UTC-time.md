@@ -49,6 +49,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Не найден файл (no such file or directory …)](https://docs.amvera.ru/not-found-file.html)
+← [Не найден файл (no such file or directory …)](not-found-file.md)
 
-→ [Ошибки при работе с git](https://docs.amvera.ru/applications/git/freq-errors.html)
+→ [Ошибки при работе с git](applications/git/freq-errors.md)

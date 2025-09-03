@@ -71,6 +71,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Смена тарифного плана](https://docs.amvera.ru/tarifs.html)
+← [Смена тарифного плана](tarifs.md)
 
-→ [Уведомления о сбоях](https://docs.amvera.ru/notifications.html)
+→ [Уведомления о сбоях](notifications.md)

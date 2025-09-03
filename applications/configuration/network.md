@@ -129,6 +129,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Переменные и секреты](https://docs.amvera.ru/variables.html)
+← [Переменные и секреты](variables.md)
 
-→ [PostgreSQL](https://docs.amvera.ru/databases/postgreSQL.html)
+→ [PostgreSQL](databases/postgreSQL.md)

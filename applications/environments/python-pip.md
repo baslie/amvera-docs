@@ -359,6 +359,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Поддерживаемые окружения](https://docs.amvera.ru/supported-env.html)
+← [Поддерживаемые окружения](supported-env.md)
 
-→ [JVM Gradle](https://docs.amvera.ru/jvm-gradle.html)
+→ [JVM Gradle](jvm-gradle.md)

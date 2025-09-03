@@ -79,6 +79,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Memcached](https://docs.amvera.ru/memcached.html)
+← [Memcached](memcached.md)
 
-→ [n8n](https://docs.amvera.ru/marketplace/n8n.html)
+→ [n8n](marketplace/n8n.md)

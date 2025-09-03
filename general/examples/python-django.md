@@ -44,6 +44,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Телеграм бот на Python](https://docs.amvera.ru/python-tgbot.html)
+← [Телеграм бот на Python](python-tgbot.md)
 
-→ [Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах](https://docs.amvera.ru/miniappex.html)
+→ [Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах](miniappex.md)

@@ -76,6 +76,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [RabbitMQ](https://docs.amvera.ru/rabbitmq.html)
+← [RabbitMQ](rabbitmq.md)
 
-→ [Drupal](https://docs.amvera.ru/drupal.html)
+→ [Drupal](drupal.md)

@@ -179,6 +179,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Backend с использованием Flask](https://docs.amvera.ru/python-flask.html)
+← [Backend с использованием Flask](python-flask.md)
 
-→ [Fullstack на Django](https://docs.amvera.ru/python-django.html)
+→ [Fullstack на Django](python-django.md)

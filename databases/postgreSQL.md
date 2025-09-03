@@ -150,6 +150,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Сетевое взаимодействие](https://docs.amvera.ru/applications/configuration/network.html)
+← [Сетевое взаимодействие](applications/configuration/network.md)
 
-→ [SQLite](https://docs.amvera.ru/sqlite.html)
+→ [SQLite](sqlite.md)

@@ -118,6 +118,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Go](https://docs.amvera.ru/golang-go.html)
+← [Go](golang-go.md)
 
-→ [С# Microsoft(.NET)](https://docs.amvera.ru/csharp-dotnet.html)
+→ [С# Microsoft(.NET)](csharp-dotnet.md)

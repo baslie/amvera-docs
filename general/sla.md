@@ -80,6 +80,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [CLI. Управление через командную строку](https://docs.amvera.ru/cli.html)
+← [CLI. Управление через командную строку](cli.md)
 
-→ [Удаление ресурса](https://docs.amvera.ru/disposion.html)
+→ [Удаление ресурса](disposion.md)

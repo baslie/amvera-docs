@@ -207,6 +207,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Node.JS Browser](https://docs.amvera.ru/nodejs-browser.html)
+← [Node.JS Browser](nodejs-browser.md)
 
-→ [Go](https://docs.amvera.ru/golang-go.html)
+→ [Go](golang-go.md)

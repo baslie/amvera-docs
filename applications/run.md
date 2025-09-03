@@ -86,6 +86,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Сборка](https://docs.amvera.ru/build.html)
+← [Сборка](build.md)
 
-→ [Бэкапы](https://docs.amvera.ru/backups.html)
+→ [Бэкапы](backups.md)

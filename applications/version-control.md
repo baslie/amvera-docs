@@ -75,6 +75,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Бэкапы](https://docs.amvera.ru/backups.html)
+← [Бэкапы](backups.md)
 
-→ [Конфигурация](https://docs.amvera.ru/configuration.html)
+→ [Конфигурация](configuration.md)

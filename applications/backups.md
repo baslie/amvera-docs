@@ -54,6 +54,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Запуск](https://docs.amvera.ru/run.html)
+← [Запуск](run.md)
 
-→ [Контроль версий](https://docs.amvera.ru/version-control.html)
+→ [Контроль версий](version-control.md)

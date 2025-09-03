@@ -58,6 +58,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Проблема с оплатой](https://docs.amvera.ru/general/FAQ/payments.html)
+← [Проблема с оплатой](general/FAQ/payments.md)
 
-→ [Использование Amvera как основной репозиторий](https://docs.amvera.ru/git/main-origin.html)
+→ [Использование Amvera как основной репозиторий](git/main-origin.md)

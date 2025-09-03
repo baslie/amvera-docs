@@ -52,6 +52,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Docker](https://docs.amvera.ru/configuration/docker.html)
+← [Docker](configuration/docker.md)
 
-→ [Python Pip](https://docs.amvera.ru/environments/python-pip.html)
+→ [Python Pip](environments/python-pip.md)

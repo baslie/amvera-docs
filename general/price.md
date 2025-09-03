@@ -73,6 +73,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Пополнение счета](https://docs.amvera.ru/topup.html)
+← [Пополнение счета](topup.md)
 
-→ [Смена тарифного плана](https://docs.amvera.ru/tarifs.html)
+→ [Смена тарифного плана](tarifs.md)

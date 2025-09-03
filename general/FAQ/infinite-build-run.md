@@ -91,6 +91,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [502/503 ошибка при статусе «Приложение запущено»](https://docs.amvera.ru/502-503-error.html)
+← [502/503 ошибка при статусе «Приложение запущено»](502-503-error.md)
 
-→ [Не работает телеграм-бот](https://docs.amvera.ru/tgbot.html)
+→ [Не работает телеграм-бот](tgbot.md)

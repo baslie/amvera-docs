@@ -188,6 +188,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [ffmpeg](https://docs.amvera.ru/ffmpeg-pip.html)
+← [ffmpeg](ffmpeg-pip.md)
 
-→ [Перенос проекта из Heroku](https://docs.amvera.ru/configuration/heroku-migration.html)
+→ [Перенос проекта из Heroku](configuration/heroku-migration.md)

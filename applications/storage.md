@@ -200,6 +200,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Подключить GitHub, GitLab, Bitbucket](https://docs.amvera.ru/git/webhooks.html)
+← [Подключить GitHub, GitLab, Bitbucket](git/webhooks.md)
 
-→ [Сборка](https://docs.amvera.ru/build.html)
+→ [Сборка](build.md)

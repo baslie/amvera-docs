@@ -163,6 +163,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Поддержка проб Kubernetes](https://docs.amvera.ru/k8sprobe.html)
+← [Поддержка проб Kubernetes](k8sprobe.md)
 
-→ [SLA](https://docs.amvera.ru/sla.html)
+→ [SLA](sla.md)

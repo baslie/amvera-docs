@@ -51,6 +51,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Fullstack на Go](https://docs.amvera.ru/go_full.html)
+← [Fullstack на Go](go_full.md)
 
-→ [Web-приложение на C# Microsoft (.NET) с подключением к SQLite](https://docs.amvera.ru/NET-SQLite.html)
+→ [Web-приложение на C# Microsoft (.NET) с подключением к SQLite](NET-SQLite.md)

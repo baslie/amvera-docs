@@ -64,6 +64,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Не получается обновить проект](https://docs.amvera.ru/update.html)
+← [Не получается обновить проект](update.md)
 
-→ [502/503 ошибка при статусе «Приложение запущено»](https://docs.amvera.ru/502-503-error.html)
+→ [502/503 ошибка при статусе «Приложение запущено»](502-503-error.md)

@@ -94,6 +94,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [n8n](https://docs.amvera.ru/n8n.html)
+← [n8n](n8n.md)
 
-→ [RabbitMQ](https://docs.amvera.ru/rabbitmq.html)
+→ [RabbitMQ](rabbitmq.md)

@@ -307,6 +307,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Fullstack на Django](https://docs.amvera.ru/python-django.html)
+← [Fullstack на Django](python-django.md)
 
-→ [Spring Boot с встраиваемой базой данных H2 и PostgreSQL](https://docs.amvera.ru/java-springboot.html)
+→ [Spring Boot с встраиваемой базой данных H2 и PostgreSQL](java-springboot.md)

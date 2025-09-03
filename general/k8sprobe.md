@@ -63,6 +63,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Уведомления о сбоях](https://docs.amvera.ru/notifications.html)
+← [Уведомления о сбоях](notifications.md)
 
-→ [CLI. Управление через командную строку](https://docs.amvera.ru/cli.html)
+→ [CLI. Управление через командную строку](cli.md)

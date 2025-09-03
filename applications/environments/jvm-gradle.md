@@ -174,6 +174,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Python Pip](https://docs.amvera.ru/python-pip.html)
+← [Python Pip](python-pip.md)
 
-→ [JVM Maven](https://docs.amvera.ru/jvm-maven.html)
+→ [JVM Maven](jvm-maven.md)

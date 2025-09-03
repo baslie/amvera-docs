@@ -318,6 +318,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Примеры](https://docs.amvera.ru/examples.html)
+← [Примеры](examples.md)
 
-→ [Телеграм бот на Python](https://docs.amvera.ru/python-tgbot.html)
+→ [Телеграм бот на Python](python-tgbot.md)

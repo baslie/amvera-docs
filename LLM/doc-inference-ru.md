@@ -85,6 +85,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [WordPress](https://docs.amvera.ru/marketplace/wordpress.html)
+← [WordPress](marketplace/wordpress.md)
 
-→ [Пополнение счета](https://docs.amvera.ru/general/topup.html)
+→ [Пополнение счета](general/topup.md)

@@ -349,6 +349,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Ruby on Rails c базой данных SQLite](https://docs.amvera.ru/Ruby-SQLite.html)
+← [Ruby on Rails c базой данных SQLite](Ruby-SQLite.md)
 
-→ [Быстрый старт](https://docs.amvera.ru/applications/quick-start.html)
+→ [Быстрый старт](applications/quick-start.md)

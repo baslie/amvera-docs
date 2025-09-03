@@ -132,6 +132,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Подключение к существующему репозиторию](https://docs.amvera.ru/secondary-origin.html)
+← [Подключение к существующему репозиторию](secondary-origin.md)
 
-→ [Хранилище и пути](https://docs.amvera.ru/storage.html)
+→ [Хранилище и пути](storage.md)

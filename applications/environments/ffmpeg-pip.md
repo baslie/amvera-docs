@@ -225,6 +225,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Ruby (Rails)](https://docs.amvera.ru/ruby-bundle.html)
+← [Ruby (Rails)](ruby-bundle.md)
 
-→ [Selenium и Chromedriver](https://docs.amvera.ru/selenium-chromedriver.html)
+→ [Selenium и Chromedriver](selenium-chromedriver.md)

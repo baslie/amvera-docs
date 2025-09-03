@@ -123,6 +123,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [С# Microsoft(.NET)](https://docs.amvera.ru/csharp-dotnet.html)
+← [С# Microsoft(.NET)](csharp-dotnet.md)
 
-→ [ffmpeg](https://docs.amvera.ru/ffmpeg-pip.html)
+→ [ffmpeg](ffmpeg-pip.md)

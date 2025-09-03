@@ -98,6 +98,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Amvera LLM Inference](https://docs.amvera.ru/LLM/doc-inference-ru.html)
+← [Amvera LLM Inference](LLM/doc-inference-ru.md)
 
-→ [Тарифные планы](https://docs.amvera.ru/price.html)
+→ [Тарифные планы](price.md)

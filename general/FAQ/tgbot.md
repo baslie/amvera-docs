@@ -115,6 +115,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Бесконечный запуск, сборка или отсутствие логов](https://docs.amvera.ru/infinite-build-run.html)
+← [Бесконечный запуск, сборка или отсутствие логов](infinite-build-run.md)
 
-→ [Ошибка venv в Python при сборке или запуске приложения](https://docs.amvera.ru/enverror.html)
+→ [Ошибка venv в Python при сборке или запуске приложения](enverror.md)

@@ -132,6 +132,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [MongoDB](https://docs.amvera.ru/mongodb.html)
+← [MongoDB](mongodb.md)
 
-→ [Redis](https://docs.amvera.ru/redis.html)
+→ [Redis](redis.md)

@@ -132,6 +132,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Конфигурация](https://docs.amvera.ru/configuration.html)
+← [Конфигурация](configuration.md)
 
-→ [Docker](https://docs.amvera.ru/docker.html)
+→ [Docker](docker.md)

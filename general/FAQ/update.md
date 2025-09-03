@@ -81,6 +81,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Ошибки в логах и их причины](https://docs.amvera.ru/errors-in-logs.html)
+← [Ошибки в логах и их причины](errors-in-logs.md)
 
-→ [Не сохраняются данные при перезапуске/пересборке приложения/базы данных](https://docs.amvera.ru/data-saving.html)
+→ [Не сохраняются данные при перезапуске/пересборке приложения/базы данных](data-saving.md)

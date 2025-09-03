@@ -51,6 +51,6 @@ Made with [Sphinx](<https://www.sphinx-doc.org/>) and [@pradyunsg](<https://prad
 
 ### Навигация
 
-← [Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах](https://docs.amvera.ru/miniappex.html)
+← [Mini Apps со stage и prod, привязкой GitHub, БД и связкой Backend и Frontend, развернутых в разных проектах](miniappex.md)
 
-→ [Fullstack-приложение на Go c подключением к PostgreSQL](https://docs.amvera.ru/go-postgresql.html)
+→ [Fullstack-приложение на Go c подключением к PostgreSQL](go-postgresql.md)
